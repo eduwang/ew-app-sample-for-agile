@@ -1,0 +1,20 @@
+{
+  "scanned": "2026-11-17",
+  "findings": {
+    "fonts": "Vite template system stack in src/index.css",
+    "palette": "Vite template purple palette in src/index.css",
+    "motion": "CSS transitions only",
+    "spacing": "No shared project scale",
+    "framework": "Vite 8.3.6 with React 19.3.1"
+  },
+  "preserve": [
+    "Vite and React project structure",
+    "existing template stylesheets as untouched source files"
+  ],
+  "introduce": [
+    "Hum theme tokens",
+    "app-screen layout",
+    "dice experiment controls",
+    "inline SVG chart"
+  ]
+}

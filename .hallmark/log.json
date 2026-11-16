@@ -1,0 +1,27 @@
+[
+ {
+  "scope": "app",
+  "shape": "app-screen",
+  "theme": "hum",
+  "axes": "light/rounded-sans/chromatic-yellow",
+  "hero": "none",
+  "nav": "direct-to-tool",
+  "footer": "method-note",
+  "imagery": "none",
+  "photos": [],
+  "entry": "dice-probability-lab",
+  "fingerprint": "app-screen|die-stage|controls|stat-cards|line-chart",
+  "sections": [
+   "header",
+   "experiment-controls",
+   "results",
+   "frequency-chart",
+   "method-note"
+  ],
+  "signature": "large-pip-die",
+  "waived": [],
+  "prompt": "korean-classroom-dice-experiment",
+  "date": "2026-11-17",
+  "mode": "build"
+ }
+]
